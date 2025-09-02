@@ -80,7 +80,6 @@ def employee_generator():
         "phoneNumber": phoneNumber,
         'SSN': SSN,
         "email": email,
-        "phone": phoneNumber,
     }
 
     return employee
