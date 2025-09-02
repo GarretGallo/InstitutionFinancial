@@ -4,7 +4,6 @@ import random
 import uuid
 from faker import Faker
 from time import sleep
-from datetime import date
 
 fake = Faker()
 
